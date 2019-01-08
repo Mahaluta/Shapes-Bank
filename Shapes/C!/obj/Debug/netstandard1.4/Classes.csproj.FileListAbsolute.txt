@@ -1,0 +1,8 @@
+E:\Wantsome\Shapes\C!\bin\Debug\netstandard1.4\Classes.deps.json
+E:\Wantsome\Shapes\C!\bin\Debug\netstandard1.4\Classes.dll
+E:\Wantsome\Shapes\C!\bin\Debug\netstandard1.4\Classes.pdb
+E:\Wantsome\Shapes\C!\obj\Debug\netstandard1.4\Classes.csprojAssemblyReference.cache
+E:\Wantsome\Shapes\C!\obj\Debug\netstandard1.4\Classes.csproj.CoreCompileInputs.cache
+E:\Wantsome\Shapes\C!\obj\Debug\netstandard1.4\Classes.AssemblyInfo.cs
+E:\Wantsome\Shapes\C!\obj\Debug\netstandard1.4\Classes.dll
+E:\Wantsome\Shapes\C!\obj\Debug\netstandard1.4\Classes.pdb
