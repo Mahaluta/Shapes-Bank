@@ -1,0 +1,7 @@
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\bin\Debug\CommonTypeSystemHomework2.exe.config
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\bin\Debug\CommonTypeSystemHomework2.exe
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\bin\Debug\CommonTypeSystemHomework2.pdb
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\obj\Debug\CommonTypeSystemHomework2.csprojAssemblyReference.cache
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\obj\Debug\CommonTypeSystemHomework2.csproj.CoreCompileInputs.cache
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\obj\Debug\CommonTypeSystemHomework2.exe
+E:\Wantsome\CommonTypeSystemHomework2\CommonTypeSystemHomework2\obj\Debug\CommonTypeSystemHomework2.pdb

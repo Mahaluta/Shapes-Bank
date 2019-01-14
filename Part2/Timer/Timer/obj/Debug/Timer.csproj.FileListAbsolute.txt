@@ -1,0 +1,7 @@
+E:\Wantsome\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+E:\Wantsome\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+E:\Wantsome\Timer\Timer\bin\Debug\Timer.exe.config
+E:\Wantsome\Timer\Timer\bin\Debug\Timer.exe
+E:\Wantsome\Timer\Timer\bin\Debug\Timer.pdb
+E:\Wantsome\Timer\Timer\obj\Debug\Timer.exe
+E:\Wantsome\Timer\Timer\obj\Debug\Timer.pdb

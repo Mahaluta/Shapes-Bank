@@ -1,0 +1,7 @@
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\bin\Debug\StudentGroupsEx9Ex10.exe.config
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\bin\Debug\StudentGroupsEx9Ex10.exe
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\bin\Debug\StudentGroupsEx9Ex10.pdb
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\obj\Debug\StudentGroupsEx9Ex10.csprojAssemblyReference.cache
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\obj\Debug\StudentGroupsEx9Ex10.csproj.CoreCompileInputs.cache
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\obj\Debug\StudentGroupsEx9Ex10.exe
+E:\Wantsome\StudentGroupsEx9Ex10Ex11Ex12Ex18\StudentGroupsEx9Ex10\obj\Debug\StudentGroupsEx9Ex10.pdb

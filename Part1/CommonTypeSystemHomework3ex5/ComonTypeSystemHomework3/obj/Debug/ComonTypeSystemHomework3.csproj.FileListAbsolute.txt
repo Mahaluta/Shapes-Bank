@@ -1,0 +1,14 @@
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.exe.config
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.exe
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.pdb
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.csprojAssemblyReference.cache
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.csproj.CoreCompileInputs.cache
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.exe
+E:\Wantsome\ComonTypeSystemHomework3\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.pdb
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.exe.config
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.exe
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\bin\Debug\ComonTypeSystemHomework3.pdb
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.csprojAssemblyReference.cache
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.csproj.CoreCompileInputs.cache
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.exe
+E:\Wantsome\CommonTypeSystemHomework3ex5\ComonTypeSystemHomework3\obj\Debug\ComonTypeSystemHomework3.pdb

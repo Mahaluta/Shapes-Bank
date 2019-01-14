@@ -1,0 +1,8 @@
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\bin\Debug\netstandard1.4\StudentClasses.deps.json
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\bin\Debug\netstandard1.4\StudentClasses.dll
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\bin\Debug\netstandard1.4\StudentClasses.pdb
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\obj\Debug\netstandard1.4\StudentClasses.csprojAssemblyReference.cache
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\obj\Debug\netstandard1.4\StudentClasses.csproj.CoreCompileInputs.cache
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\obj\Debug\netstandard1.4\StudentClasses.AssemblyInfo.cs
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\obj\Debug\netstandard1.4\StudentClasses.dll
+E:\Wantsome\CommonTypeSystemHomework\StudentClasses\obj\Debug\netstandard1.4\StudentClasses.pdb

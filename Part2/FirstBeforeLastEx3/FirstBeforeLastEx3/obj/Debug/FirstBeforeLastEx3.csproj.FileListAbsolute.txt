@@ -1,0 +1,7 @@
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\obj\Debug\FirstBeforeLastEx3.csprojAssemblyReference.cache
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\obj\Debug\FirstBeforeLastEx3.csproj.CoreCompileInputs.cache
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\bin\Debug\FirstBeforeLastEx3.exe.config
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\bin\Debug\FirstBeforeLastEx3.exe
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\bin\Debug\FirstBeforeLastEx3.pdb
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\obj\Debug\FirstBeforeLastEx3.exe
+E:\Wantsome\FirstBeforeLastEx3\FirstBeforeLastEx3\obj\Debug\FirstBeforeLastEx3.pdb

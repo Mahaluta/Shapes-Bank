@@ -1,0 +1,7 @@
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\bin\Debug\StringBuilderSubstringEx1.exe.config
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\bin\Debug\StringBuilderSubstringEx1.exe
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\bin\Debug\StringBuilderSubstringEx1.pdb
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\obj\Debug\StringBuilderSubstringEx1.csprojAssemblyReference.cache
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\obj\Debug\StringBuilderSubstringEx1.csproj.CoreCompileInputs.cache
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\obj\Debug\StringBuilderSubstringEx1.exe
+E:\Wantsome\StringBuilderSubstringEx1\StringBuilderSubstringEx1\obj\Debug\StringBuilderSubstringEx1.pdb

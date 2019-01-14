@@ -1,0 +1,10 @@
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\bin\Debug\CommonTypeSystemHomework.exe.config
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\bin\Debug\CommonTypeSystemHomework.exe
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\bin\Debug\CommonTypeSystemHomework.pdb
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\bin\Debug\StudentClasses.dll
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\bin\Debug\StudentClasses.pdb
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\obj\Debug\CommonTypeSystemHomework.csprojAssemblyReference.cache
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\obj\Debug\CommonTypeSystemHomework.csproj.CoreCompileInputs.cache
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\obj\Debug\CommonTypeSystemHomework.csproj.CopyComplete
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\obj\Debug\CommonTypeSystemHomework.exe
+E:\Wantsome\CommonTypeSystemHomework\CommonTypeSystemHomework\obj\Debug\CommonTypeSystemHomework.pdb

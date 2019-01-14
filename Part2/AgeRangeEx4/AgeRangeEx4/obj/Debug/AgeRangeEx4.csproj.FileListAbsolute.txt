@@ -1,0 +1,7 @@
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\bin\Debug\AgeRangeEx4.exe.config
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\bin\Debug\AgeRangeEx4.exe
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\bin\Debug\AgeRangeEx4.pdb
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\obj\Debug\AgeRangeEx4.csprojAssemblyReference.cache
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\obj\Debug\AgeRangeEx4.csproj.CoreCompileInputs.cache
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\obj\Debug\AgeRangeEx4.exe
+E:\Wantsome\AgeRangeEx4\AgeRangeEx4\obj\Debug\AgeRangeEx4.pdb

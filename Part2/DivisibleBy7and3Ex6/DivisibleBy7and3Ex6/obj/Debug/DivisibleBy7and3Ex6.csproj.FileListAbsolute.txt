@@ -1,0 +1,7 @@
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\bin\Debug\DivisibleBy7and3Ex6.exe.config
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\bin\Debug\DivisibleBy7and3Ex6.exe
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\bin\Debug\DivisibleBy7and3Ex6.pdb
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\obj\Debug\DivisibleBy7and3Ex6.csprojAssemblyReference.cache
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\obj\Debug\DivisibleBy7and3Ex6.csproj.CoreCompileInputs.cache
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\obj\Debug\DivisibleBy7and3Ex6.exe
+E:\Wantsome\DivisibleBy7and3Ex6\DivisibleBy7and3Ex6\obj\Debug\DivisibleBy7and3Ex6.pdb

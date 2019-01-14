@@ -1,0 +1,7 @@
+E:\Wantsome\OrderByEx5\OrderByEx5\bin\Debug\OrderByEx5.exe.config
+E:\Wantsome\OrderByEx5\OrderByEx5\bin\Debug\OrderByEx5.exe
+E:\Wantsome\OrderByEx5\OrderByEx5\bin\Debug\OrderByEx5.pdb
+E:\Wantsome\OrderByEx5\OrderByEx5\obj\Debug\OrderByEx5.csprojAssemblyReference.cache
+E:\Wantsome\OrderByEx5\OrderByEx5\obj\Debug\OrderByEx5.csproj.CoreCompileInputs.cache
+E:\Wantsome\OrderByEx5\OrderByEx5\obj\Debug\OrderByEx5.exe
+E:\Wantsome\OrderByEx5\OrderByEx5\obj\Debug\OrderByEx5.pdb

@@ -1,0 +1,7 @@
+E:\Wantsome\LongestStringEx17\LongestStringEx17\bin\Debug\LongestStringEx17.exe.config
+E:\Wantsome\LongestStringEx17\LongestStringEx17\bin\Debug\LongestStringEx17.exe
+E:\Wantsome\LongestStringEx17\LongestStringEx17\bin\Debug\LongestStringEx17.pdb
+E:\Wantsome\LongestStringEx17\LongestStringEx17\obj\Debug\LongestStringEx17.csprojAssemblyReference.cache
+E:\Wantsome\LongestStringEx17\LongestStringEx17\obj\Debug\LongestStringEx17.csproj.CoreCompileInputs.cache
+E:\Wantsome\LongestStringEx17\LongestStringEx17\obj\Debug\LongestStringEx17.exe
+E:\Wantsome\LongestStringEx17\LongestStringEx17\obj\Debug\LongestStringEx17.pdb
